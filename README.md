@@ -20,7 +20,7 @@
   RESTful API를 통해 요청이 수행될 때 RESTful API는 리소스 상태에 대한 표현을 요청자에게 전송한다.
   
   
-  API가 RESTful로 간주되려면 기준들을 따라야 합니다.
+  API가 RESTful로 간주되려면 기준들을 따라야 한다.
   
   
   * *Open API*
