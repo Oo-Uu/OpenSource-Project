@@ -17,4 +17,6 @@
 
 ### 동영상 링크
 [Open API를 이용한 DB구축 기초 1] (https://drive.google.com/file/d/1TixBq6pbBXgfMJpd54dmhlpZaPjlnLjB/view?usp=sharing)
+
+
 [Open API를 이용한 DB구축 기초 2]
