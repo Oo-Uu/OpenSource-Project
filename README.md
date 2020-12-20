@@ -11,7 +11,7 @@
  3. Open API를 통해 얻은 data로 나만의 database로 table을 구축할 수 있다. 
 
 ## 프로젝트에서 사용한 개념 
-  * Restful API 
+  * *Restful API*
   
   
   REST는 프로토콜이나 표준이 아닌 아키텍처 원칙 세트입니다. API 개발자는 REST를 다양한 방식으로 구현할 수 있다.
@@ -23,17 +23,17 @@
   API가 RESTful로 간주되려면 기준들을 따라야 합니다.
   
   
-  * Open API
+  * *Open API*
   
   오픈 API는 누구나 사용할 수 있도록 공개된 API를 말하며, 개발자에게 사유 응용 소프트웨어나 웹 서비스에 프로그래밍적인 권한을 제공한다.
   
   
-  * Postgresql
+  * *Postgresql*
   
   PostgreSQL은 확장 가능성 및 표준 준수를 강조하는 객체-관계형 데이터베이스 관리 시스템의 하나이다. BSD 허가권으로 배포되며 오픈소스 개발자 및 관련 회사들이 개발에 참여하고 있다.
 
 ### 동영상 링크
-[Open API를 이용한 DB구축 기초 1] (https://drive.google.com/file/d/1TixBq6pbBXgfMJpd54dmhlpZaPjlnLjB/view?usp=sharing)
+[Open API를 이용한 DB구축 기초 1] (https://drive.google.com/file/d/1uzvkn0hLVY1Jv9bGAqL6Z6rwzAbXgMik/view?usp=sharing)
 
 
-[Open API를 이용한 DB구축 기초 2]
+[Open API를 이용한 DB구축 기초 2] (https://drive.google.com/file/d/1OjCovLaIk4lWhB6lHk0zpCrAgC5TCAfM/view?usp=sharing)
